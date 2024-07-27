@@ -30,6 +30,7 @@ Gitmoji는 커밋 메시지에 이모지를 사용하는 방식으로, 커밋의
 gitmoji -c
 ```
 
+프롬프트 예시:
 ```yaml
 ? Choose a gitmoji: 🎨  - Improving structure / format of the code.
 ? Enter the commit title: 코드 구조 개선
