@@ -213,6 +213,3 @@ gitmoji -c
 Git Documentation(https://git-scm.com/doc)<br>
 GitHub Guides(https://docs.github.com/ko)<br>
 Gitmoji Website(https://gitmoji.dev/)
-
-[Group 1000003563.png] <br>
-© 2024 Hjwoon. 본 로고는 GitHub 로고를 변형한 창작물입니다. 모든 권리는 Hjwoon에게 있습니다.
