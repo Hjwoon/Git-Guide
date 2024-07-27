@@ -4,6 +4,13 @@
 - 메인 레포(upstream)와 포크한 레포(origin)를 동기화하면서 작업하고 
 - PR을 올리는 협업 방법
 
+### 0. 포크한 레포지토리 클론
+먼저, GitHub에서 포크한 레포지토리를 로컬로 클론합니다.
+```bash
+git clone https://github.com/자신의-사용자명/Ch-Eating-BE.git
+cd Ch-Eating-BE
+```
+
 ### 1. 기본 설정
 먼저 메인 레포를 upstream으로 추가합니다. 이 과정은 한 번만 해주면 됩니다.
 1. 터미널을 열고 포크한 레포의 디렉토리로 이동합니다.
