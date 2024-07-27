@@ -30,7 +30,7 @@ brew install git
 
 ##### Windows
 
-Git for Windows 웹사이트(https://gitforwindows.org/)에서 설치 프로그램 다운로드 및 설치. 
+Git for Windows 웹사이트(https://gitforwindows.org/) 에서 설치 프로그램 다운로드 및 설치. 
 
 ##### Linux
 
@@ -77,7 +77,7 @@ git push origin <branch-name>
 
 ## GitHub 사용법
 ### 1. GitHub 계정 생성
-GitHub(https://github.com/)에 접속하여 계정을 생성합니다.
+GitHub(https://github.com/) 에 접속하여 계정을 생성합니다.
 
 ### 2. 저장소 생성
 1. GitHub 웹사이트에서 프로필 메뉴에서 "Your repositories"를 클릭합니다.
