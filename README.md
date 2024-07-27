@@ -10,6 +10,7 @@
 
 ## 개념 요약
 ![Group 1000003563.png](images%2FGroup%201000003563.png)
+
 ### Git이란?
 Git은 파일의 변경 이력을 기록하여, 여러 사람이 동시에 작업할 때도 문제 없이 협업할 수 있게 해주는 도구입니다. 개발자는 Git을 사용해 언제든지 이전 상태로 돌아갈 수 있고, 서로의 작업이 충돌하지 않도록 관리할 수 있습니다.
 
@@ -213,3 +214,5 @@ Git Documentation(https://git-scm.com/doc)<br>
 GitHub Guides(https://docs.github.com/ko)<br>
 Gitmoji Website(https://gitmoji.dev/)
 
+[Group 1000003563.png] <br>
+© 2024 Hjwoon. 본 로고는 GitHub 로고를 변형한 창작물입니다. 모든 권리는 Hjwoon에게 있습니다.
